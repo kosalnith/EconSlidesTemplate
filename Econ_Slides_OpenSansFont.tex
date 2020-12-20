@@ -9,10 +9,14 @@
 \usepackage[default, osfigures]{opensans}
 %\usepackage[sfdefault]{FiraSans}
 
+\definecolorseries
+\usepackage{xcolor}
+
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
+
 \usetheme{Boadilla}
 \usepackage{hyperref}
 \usepackage{multirow}
@@ -23,6 +27,9 @@
 \usepackage{multirow}
 \usepackage{array} 
 \usepackage{booktabs}
+\usepackage{url}
+\usepackage{natbib}
+\usepackage{hyperref}
 \newcommand{\head}[1]{\textnormal{\textbf{#1}}}
 
 \usepackage{tikz}
@@ -44,6 +51,9 @@
 \setbeamersize{text margin left=0.5cm}
 \setbeamersize{text margin right=0.5cm}
 
+\hypersetup{colorlinks,linkcolor={white},citecolor={[rgb]1,0.25002,0}, filecolor={violet}, urlcolor={[rgb]0.5,0,1}}  
+
+%\hypersetup{linkcolor, urlcolor={[rgb]1,0.25002,0}}  
 
 %\setbeamertemplate{footline}[frame number]
 
@@ -80,7 +90,9 @@
 	\titlegraphic{\includegraphics[width=0.2\linewidth]{Figure/Logo}}
 
 	
-	\institute{Future Forum}
+	\institute{Future Forum\\
+	\href{mailto:kosal.nith@univ-lyon2.fr}{\texttt{kosal.nith@univ-lyon2.fr}} \\
+\url{https://nithkosal.github.io}}
 	\date[\today]{Future Forum, \today}
 	%\subject{}
 	%\setbeamercovered{transparent}
@@ -102,10 +114,16 @@
 		\frametitle{\bfseries Introduction}
 		
 		\begin{itemize}
-			\item Item 1
+			\item Item 1 \citep{Altunbas2001, Bareille2018}
 			\item Item 2
 			\item Item 3
 		\end{itemize}
+	\hyperlink{map}{\beamergotobutton{Go to figure}}
+	
+	\begin{equation}
+		y_{t} = x_{t}'\beta_{0} + u_{t} = x_{1t}'\gamma_{0}+x_{2t}'\delta_{0} + u_{t}
+		
+	\end{equation}
 	\end{frame}
 %------------------------------------------------------------------%
 	
@@ -114,9 +132,9 @@
 		\frametitle{\bfseries This Paper}
 		
 		\begin{itemize}
-			\item Item 1
-			\item Item 2
-			\item Item 3
+			\item[\textbf{*}] Item 1
+			\item[$\triangle$] Item 2
+			\item[\rhd] Item 3
 		\end{itemize}
 
 	\end{frame}
@@ -149,7 +167,7 @@
 
 \begin{frame}
 	\section{Road Map}
-	\frametitle{\bfseries Road Map}
+	\frametitle{\bfseries Road Map}\label{map}
 	
 	\begin{enumerate}
 		\item Item 1
@@ -173,7 +191,15 @@
 
 \begin{frame}
 	\frametitle{\bfseries Theoretical Model}
-	
+
+		\begin{itemize}
+			\item<1-> Eggs
+			\item<2-> Plants
+			\note[item]<2>{Tell joke about plants.}
+			\note[item]<2>{Make it short.}
+			\item<3-> Animals
+		\end{itemize}
+
 	
 \end{frame}
 %------------------------------------------------------------------%
@@ -233,12 +259,24 @@
 
 
 \begin{frame}
+	\section[]{Appendix}
 	
-	\begin{center}
-		APPENDIX
-	\end{center}
-	\frametitle{\bfseries APPENDIX}
+	\begin{beamercolorbox}{title}
+		\begin{center}
+			\bfseries \huge Appendix
+		\end{center}	
+	\end{beamercolorbox}
+	
 \end{frame}
+%------------------------------------------------------------------%
 
+\begin{frame}
+	
+	\frametitle{\bfseries Appendix}
+\end{frame}
+%------------------------------------------------------------------%
+
+\bibliographystyle{ecca}
+\bibliography{References}
 
 \end{document}
