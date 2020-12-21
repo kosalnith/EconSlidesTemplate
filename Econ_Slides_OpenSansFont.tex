@@ -5,6 +5,7 @@
 \usepackage{babel}
 \usepackage{lmodern}
 %\usefonttheme{serif}
+%\usefonttheme{structuresmallcapsserif}
 
 \usepackage[default, osfigures]{opensans}
 %\usepackage[sfdefault]{FiraSans}
@@ -51,7 +52,7 @@
 \setbeamersize{text margin left=0.5cm}
 \setbeamersize{text margin right=0.5cm}
 
-\hypersetup{colorlinks,linkcolor={blue},citecolor={[rgb]1,0.25002,0}, filecolor={violet}, urlcolor={[rgb]0.5,0,1}}  
+\hypersetup{colorlinks,linkcolor={white},citecolor={[rgb]1,0.25002,0}, filecolor={violet}, urlcolor={[rgb]0.5,0,1}}  
 
 %\hypersetup{linkcolor, urlcolor={[rgb]1,0.25002,0}}  
 
@@ -106,7 +107,7 @@
 % Page number set from 1 into page 2
 	\addtobeamertemplate{navigation symbols}{}{     
 		\usebeamerfont{footline}%
-		\insertframenumber/\inserttotalframenumber }
+		\insertframenumber/\inserttotalframenumber}
 	\setcounter{framenumber}{0}
 %------------------------------------------------------------------%			
 	\section{Motivation}
@@ -146,7 +147,12 @@
 \begin{frame}
 
 	\frametitle{\bfseries Road Map}\label{map}
-\tableofcontents[sections={4-}]
+	\definecolor{chocolate}{RGB}{33,33,33}
+	
+\tableofcontents[sections={5-}]
+
+
+
 	
 \end{frame}
 %------------------------------------------------------------------%
