@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.23)  21 DEC 2020 23:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.23)  22 DEC 2020 00:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1254,7 +1254,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 104.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 104.
-<Figure/Logo.png, id=68, 2007.5pt x 1236.62pt>
+<Figure/Logo.png, id=71, 2007.5pt x 1236.62pt>
 File: Figure/Logo.png Graphic file (type png)
 <use Figure/Logo.png>
 Package pdftex.def Info: Figure/Logo.png  used on input line 104.
@@ -1263,122 +1263,29 @@ Package pdftex.def Info: Figure/Logo.png  used on input line 104.
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Figure/Logo.p
 ng>]
-LaTeX Font Info:    Font shape `T1/opensans-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 126.
 LaTeX Font Info:    Font shape `T1/opensans-TLF/m/n' will be
-(Font)              scaled to size 4.0pt on input line 126.
+(Font)              scaled to size 4.0pt on input line 122.
  [2
 
-]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.139 	\end{frame}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+] [3
 
-! Extra }, or forgotten $.
-<argument> ...\beameritemnestingprefix item}\rhd }
-                                                  
-l.139 	\end{frame}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\llap  #1->\hb@xt@ \z@ {\hss #1}
-                                
-l.139 	\end{frame}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten $.
-\makelabel ... \beameritemnestingprefix item}#1}}}
-                                                  
-l.139 	\end{frame}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.139 	\end{frame}
-                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.139 	\end{frame}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.139 	\end{frame}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.139 	\end{frame}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-[3
-
-]
-LaTeX Font Info:    Font shape `T1/opensans-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 164.
-LaTeX Font Info:    Font shape `T1/opensans-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 164.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 164.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 164.
- [4
+] [4
 
 ] [5
 
-]
-LaTeX Font Info:    Font shape `T1/opensans-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 188.
- [6
+] [6
 
 ] [7
 
 ] [8
 
-] [9
+] (./Econ_Slides_OpenSansFont.toc) [9
 
-] [10
+]
+LaTeX Font Info:    Font shape `T1/opensans-TLF/b/n' will be
+(Font)              scaled to size 20.74pt on input line 163.
+
+[10
 
 ] [11
 
@@ -1394,6 +1301,14 @@ LaTeX Font Info:    Font shape `T1/opensans-TLF/b/n' will be
 
 ] [17
 
+] [18
+
+] [19
+
+] [20
+
+] [21
+
 ]
 (./Econ_Slides_OpenSansFont.bbl
 
@@ -1401,14 +1316,9 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\translate ' on input line 1.
 
 
-LaTeX Font Warning: Font shape `T1/opensans-TLF/m/sc' undefined
-(Font)              using `T1/opensans-TLF/m/n' instead on input line 6.
+Package natbib Warning: Empty `thebibliography' environment on input line 4.
 
-LaTeX Font Info:    Font shape `T1/opensans-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 6.
-) [18
-
-]
+)
 \tf@nav=\write6
 \openout6 = `Econ_Slides_OpenSansFont.nav'.
 
@@ -1418,46 +1328,33 @@ LaTeX Font Info:    Font shape `T1/opensans-TLF/m/sc' will be
 \tf@snm=\write8
 \openout8 = `Econ_Slides_OpenSansFont.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 259.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 259.
  (./Econ_Slides_OpenSansFont.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 281.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 281.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 259.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 259.
 Package rerunfilecheck Info: File `Econ_Slides_OpenSansFont.out' has not change
 d.
-(rerunfilecheck)             Checksum: 73C54A89A4E540BC2615054A72F41F80;490.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
+(rerunfilecheck)             Checksum: 84202715FBD4D6F54D8F08BD955744C7;443.
  ) 
 Here is how much of TeX's memory you used:
- 26017 strings out of 480893
- 527086 string characters out of 5911972
- 776664 words of memory out of 5000000
- 40934 multiletter control sequences out of 15000+600000
- 593280 words of font info for 93 fonts, out of 8000000 for 9000
+ 25906 strings out of 480893
+ 524321 string characters out of 5911972
+ 779557 words of memory out of 5000000
+ 40828 multiletter control sequences out of 15000+600000
+ 581078 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,18n,72p,791b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2020
-/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2020/texmf-dist/fonts/enc/
-dvips/lm/lm-mathit.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
-}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/opensans/a_jg4h6q.enc}<c:/texlive/
-2020/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Bold.pfb><c:/texlive/202
-0/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Italic.pfb><c:/texlive/2020
-/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Regular.pfb><c:/texlive/2020
-/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/
-type1/public/lm/lmss10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lm
-ss8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso10.pfb><c:/texli
-ve/2020/texmf-dist/fonts/type1/public/lm/lmsso8.pfb><c:/texlive/2020/texmf-dist
-/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publi
-c/lm/lmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy9.pfb><c:/
-texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt8.pfb><c:/texlive/2020/texmf-
-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Econ_Slides_OpenSansFont.pdf (18 pages, 467653 bytes).
+ 63i,18n,72p,791b,798s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2020/tex
+mf-dist/fonts/enc/dvips/opensans/a_jg4h6q.enc}<c:/texlive/2020/texmf-dist/fonts
+/type1/ascender/opensans/OpenSans-Bold.pfb><c:/texlive/2020/texmf-dist/fonts/ty
+pe1/ascender/opensans/OpenSans-Regular.pfb><c:/texlive/2020/texmf-dist/fonts/ty
+pe1/public/lm/lmtt8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
+/symbols/msam10.pfb>
+Output written on Econ_Slides_OpenSansFont.pdf (21 pages, 398532 bytes).
 PDF statistics:
- 469 PDF objects out of 1000 (max. 8388607)
- 410 compressed objects within 5 object streams
- 50 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 630 PDF objects out of 1000 (max. 8388607)
+ 569 compressed objects within 6 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
