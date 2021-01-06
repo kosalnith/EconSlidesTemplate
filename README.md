@@ -67,7 +67,10 @@ The latest update on January 6, 2021.
     <td>Takeo: 8 Seats</td>
     <td>Kep: 1 Seats</td>
     <td>Pailin: 1 Seats</td>
-    <td>Oddor Meanchey: 1 Seats</td>
+    
+ </tr>    
+<tr>
+<td>Oddor Meanchey: 1 Seats</td>
 
  </tr>    
 </table>
