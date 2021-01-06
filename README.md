@@ -38,8 +38,8 @@ The latest update on January 6, 2021.
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:50px">Title</b></td>
+    <td><b style="font-size:50px">Title 2</b></td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
