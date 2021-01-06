@@ -32,6 +32,6 @@ For 125 deputies of the 6th legislature for 2018-2023 came from the Cambodian Pe
 - Pailin: 1 Seats
 - Oddor Meanchey: 1 Seats
 
-The lasetest update on January 6, 2021.
+The latest update on January 6, 2021.
 
 © Future Forum 2021
