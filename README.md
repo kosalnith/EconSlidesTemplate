@@ -38,8 +38,8 @@ The latest update on January 6, 2021.
 
 <table border="0">
  <tr>
-    <td> style="font-size:30px">Banteay Meanchey: 6 Seats</td>
-    <td> style="font-size:30px">Battambang: 8 Seats</td>
+    <td style="font-size:30px">Banteay Meanchey: 6 Seats</td>
+    <td style="font-size:30px">Battambang: 8 Seats</td>
  </tr>
  <tr>
     <td>Lorem ipsum ...</td>
