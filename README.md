@@ -65,6 +65,7 @@ The latest update on January 6, 2021.
 <tr>
     <td>Svay Rieng: 5 Seats</td>
     <td>Takeo: 8 Seats</td>
+    <td>Kep: 1 Seats</td>
     <td>Pailin: 1 Seats</td>
     <td>Oddor Meanchey: 1 Seats</td>
 
