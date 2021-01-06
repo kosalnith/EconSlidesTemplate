@@ -35,3 +35,14 @@ For 125 deputies of the 6th legislature for 2018-2023 came from the Cambodian Pe
 The latest update on January 6, 2021.
 
 © Future Forum 2021
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
