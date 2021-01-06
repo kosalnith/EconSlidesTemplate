@@ -1,6 +1,6 @@
 # Members of the National Assembly of Cambodia
 
-These data were collected on the official website of the [National Assemly of Cambodia](http://national-assembly.org.kh/group-article/115/). The full name in Khmer and English, and the telephone number of the members of the National Assembly were publicly available on the National Assemly website.
+These data were collected on the official website of the [National Assemly of Cambodia](http://national-assembly.org.kh/group-article/115). The full name in Khmer and English, and the telephone number of the members of the National Assembly were publicly available on the National Assemly website.
 
 ## National Eclection in 2018
 
