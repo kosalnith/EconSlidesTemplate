@@ -9,11 +9,11 @@ For 125 deputies of the 6th legislature for 2018-2023 came from the Cambodian Pe
 - Banteay Meanchey: 6 Seats
 - Battambang: 8 Seats
 - Kampong Cham: 10 Seats 
-- Tbong Khmum: 8 Seats
-- Kampong Chhnang: 4 Seats
-- Kampong Speu: 6 Seats
-- Kampong Thom: 6 Seats
-- Kampot: 6 Seats
+
+- 
+- 
+- 
+- 
 - Kandal: 11 Seats
 - Koh Kong: 1 Seats
 - Kratie: 3 Seats
@@ -41,9 +41,12 @@ The latest update on January 6, 2021.
     <td>Banteay Meanchey: 6 Seats</td>
     <td>Battambang: 8 Seats</td>
     <td>Kampong Cham: 10 Seats</td>
+    <td>Tbong Khmum: 8 Seats</td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>Kampong Chhnang: 4 Seats</td>
+    <td>Kampong Speu: 6 Seats</td>
+    <td>Kampong Thom: 6 Seats</td>
+    <td>Kampot: 6 Seats</td>
  </tr>
 </table>
