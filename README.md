@@ -6,30 +6,6 @@ These data were collected on the official website of the [National Assemly of Ca
 
 For 125 deputies of the 6th legislature for 2018-2023 came from the Cambodian People’s Party (CPP), which a molopoly political party won the national eclection on July 29, 2018. The number of seats increased to 125, with Sihanoukville province gaining two additional seats.
 
-- Banteay Meanchey: 6 Seats
-- Battambang: 8 Seats
-- Kampong Cham: 10 Seats 
-
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-The latest update on January 6, 2021.
-
-© Future Forum 2021
-
 <table border="0">
  <tr>
     <td>Banteay Meanchey: 6 Seats</td>
@@ -75,9 +51,8 @@ The latest update on January 6, 2021.
  </tr>    
 </table>
 
-- 
-- 
-- 
-- 
-- Oddor Meanchey: 1 Seats
+
+The latest update on January 6, 2021.
+
+© Future Forum 2021
 
