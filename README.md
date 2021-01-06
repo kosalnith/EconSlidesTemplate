@@ -14,24 +14,18 @@ For 125 deputies of the 6th legislature for 2018-2023 came from the Cambodian Pe
 - 
 - 
 - 
-- Kandal: 11 Seats
-- Koh Kong: 1 Seats
-- Kratie: 3 Seats
-- Mondulkiri: 1 Seats
-- Phnom Penh: 12 Seats
-- Preah Vihear: 1 Seats
-- Prey Veng: 11 Seats
-- Pursat: 4 Seats
-- Rattanakiri: 1 Seats
-- Siem Reap: 6 Seats
-- Sihanoukville: 3 Seats
-- Stung Treng: 1 Seats
-- Svay Rieng: 5 Seats
-- Takeo: 8 Seats
-- Kep: 1 Seats
-- Pailin: 1 Seats
-- Oddor Meanchey: 1 Seats
-
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 The latest update on January 6, 2021.
 
 © Future Forum 2021
@@ -49,4 +43,36 @@ The latest update on January 6, 2021.
     <td>Kampong Thom: 6 Seats</td>
     <td>Kampot: 6 Seats</td>
  </tr>
+<tr>
+    <td>Kandal: 11 Seats</td>
+    <td>Koh Kong: 1 Seats</td>
+    <td>Kratie: 3 Seats</td>
+    <td>Mondulkiri: 1 Seats</td>
+ </tr>
+<tr>
+    <td>Phnom Penh: 12 Seats</td>
+    <td>Preah Vihear: 1 Seats</td>
+    <td>Prey Veng: 11 Seats</td>
+    <td>Pursat: 4 Seats</td>
+ </tr>
+<tr>
+    <td>Rattanakiri: 1 Seats</td>
+    <td>Siem Reap: 6 Seats</td>
+    <td>Sihanoukville: 3 Seats</td>
+    <td>Stung Treng: 1 Seats</td>
+ </tr>
+
+<tr>
+    <td>Svay Rieng: 5 Seats</td>
+    <td>Takeo: 8 Seats</td>
+    <td>Pailin: 1 Seats</td>
+    <td>Pursat: 4 Seats</td>
+ </tr>    
 </table>
+
+- 
+- 
+- 
+- 
+- Oddor Meanchey: 1 Seats
+
