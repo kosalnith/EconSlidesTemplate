@@ -19,38 +19,34 @@ For 125 deputies of the 6th legislature for 2018-2023 came from the Cambodian Pe
     <td>Kampong Thom: 6 Seats</td>
     <td>Kampot: 6 Seats</td>
  </tr>
-<tr>
+ <tr>
     <td>Kandal: 11 Seats</td>
     <td>Koh Kong: 1 Seats</td>
     <td>Kratie: 3 Seats</td>
     <td>Mondulkiri: 1 Seats</td>
  </tr>
-<tr>
+ <tr>
     <td>Phnom Penh: 12 Seats</td>
     <td>Preah Vihear: 1 Seats</td>
     <td>Prey Veng: 11 Seats</td>
     <td>Pursat: 4 Seats</td>
  </tr>
-<tr>
+ <tr>
     <td>Rattanakiri: 1 Seats</td>
     <td>Siem Reap: 6 Seats</td>
     <td>Sihanoukville: 3 Seats</td>
     <td>Stung Treng: 1 Seats</td>
  </tr>
-
-<tr>
+ <tr>
     <td>Svay Rieng: 5 Seats</td>
     <td>Takeo: 8 Seats</td>
     <td>Kep: 1 Seats</td>
-    <td>Pailin: 1 Seats</td>
-    
+    <td>Pailin: 1 Seats</td>   
  </tr>    
-<tr>
-<td>Oddor Meanchey: 1 Seats</td>
-
+ <tr>
+    <td>Oddor Meanchey: 1 Seats</td>
  </tr>    
 </table>
-
 
 The latest update on January 6, 2021.
 
