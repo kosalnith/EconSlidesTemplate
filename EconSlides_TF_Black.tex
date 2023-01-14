@@ -1,0 +1,244 @@
+\documentclass[11pt]{beamer}
+\usepackage[orientation=landscape,size=custom,width=16,height=9,scale=0.5,debug]{beamerposter} 
+
+%\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{babel}
+
+% Slide fonts
+%\usepackage{lmodern} % add '%' before this package if you want to apply mathpazo font inot your slide
+%\usefonttheme{serif}
+%\usepackage[default, osfigures]{opensans}
+\usepackage[sfdefault]{FiraSans}
+%\usepackage[sc]{mathpazo}
+
+\usepackage[]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usetheme{Boadilla}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage{siunitx}
+\usepackage{multirow}
+\usepackage{array} 
+\usepackage{booktabs}
+\newcommand{\head}[1]{\textnormal{\textbf{#1}}}
+
+\usepackage{tikz}
+\usetikzlibrary{spy}
+
+% Packages for formating style into this slides
+\setbeamertemplate{section in toc}[circle]
+\setbeamertemplate{itemize items}[default]
+\setbeamertemplate{itemize subitem}[square]
+\setbeamertemplate{itemize subsubitem}[circle]
+\setbeamertemplate{itemize mini template}[ball]
+
+\setbeamertemplate{enumerate items}[circle]
+\setbeamertemplate{enumerate subitem}[square]
+\setbeamertemplate{enumerate subsubitem}[circle]
+\setbeamertemplate{enumerate mini template}[ball]
+
+
+\renewcommand{\baselinestretch}{1.3}
+\setbeamersize{text margin left=0.5cm}
+\setbeamersize{text margin right=0.5cm}
+
+
+
+% Change color template
+%\setbeamertemplate{footline}[frame number]
+\setbeamercolor{background canvas}{bg=black!100}
+\setbeamercolor{normal text}{fg=gainsboro}\usebeamercolor*{normal text}
+
+
+\definecolor{alizarin}{rgb}{0.82, 0.1, 0.26}
+\definecolor{bostonuniversityred}{rgb}{0.8, 0.0, 0.0}
+\definecolor{carnelian}{rgb}{0.7, 0.11, 0.11}
+\definecolor{ghostwhite}{rgb}{0.97, 0.97, 1.0}
+\definecolor{gainsboro}{rgb}{0.86, 0.86, 0.86}
+
+%\definecolor{beamer@blendedblue}{rgb}{0.2,0.2,0.7}
+%\colorlet{beamer@blendedblue}{orange!70!red}
+
+\definecolor{beamer@blendedblue}{rgb}{0.7, 0.11, 0.11}
+\colorlet{beamer@blendedblue}{rgb}{0.7, 0.11, 0.11}
+
+
+%\setbeamercolor{palette tertiary}{fg=gainsboro, bg=carnelian}
+
+
+%------------------------------------------------------------------%
+\begin{document}
+	
+	
+	\title[Presentation Title]{\bfseries Presentation Title}
+	\subtitle{\bfseries Presntation Subtitle}
+	\author[Full Name]{Presenter and Co-Authors}
+	\titlegraphic{\includegraphics[width=0.2\linewidth]{Figure/Logo}}
+	
+	
+	\institute{Instiute}
+	\date[\today]{Program, \today}
+	%\subject{}
+	%\setbeamercovered{transparent}
+	%\setbeamertemplate{navigation symbols}{}
+	
+	\begin{frame}[plain]
+		\maketitle
+		
+	\end{frame}
+%------------------------------------------------------------------%
+
+\section{Motivation}
+%------------------------------------------------------------------%	
+	\begin{frame}
+		\frametitle{\textbf{Motivation}}
+		
+		\begin{itemize}
+			\item Item 1
+			\item Item 2
+			\item Item 3
+		\end{itemize}
+	\end{frame}
+%------------------------------------------------------------------%
+	
+	\begin{frame}
+		\section{This Paper}
+		\frametitle{\textbf{This Paper}}
+		
+		\begin{itemize}
+			\item Item 1
+			\item Item 2
+			\item Item 3
+		\end{itemize}
+	\end{frame}
+%------------------------------------------------------------------%
+
+\section{Related Literature}
+%------------------------------------------------------------------%
+\begin{frame}
+	\frametitle{\textbf{Related Literature}}
+	
+	\begin{itemize}
+		\item Item 1
+		\item Item 2
+		\begin{itemize}
+			\item Item 1 
+			\item Item 2
+			\item Item 3
+		\end{itemize}
+		\item Item 3
+	\end{itemize}
+\end{frame}
+%------------------------------------------------------------------%
+
+\section{Road Map}
+%------------------------------------------------------------------%
+\begin{frame}
+	\frametitle{\textbf{Road Map}}
+	
+	\begin{enumerate}
+	\item Item 1
+	\item Item 2
+	\item Item 3
+	\end{enumerate}
+
+\end{frame}
+%------------------------------------------------------------------%
+
+\section{Theoretical Model}	
+%------------------------------------------------------------------%	
+\begin{frame}
+	\frametitle{\textbf{Theoretical Model}}
+	
+		\begin{itemize}
+		\item Item 1
+		\item Item 2
+		\item Item 3
+	\end{itemize}
+\end{frame}
+%------------------------------------------------------------------%
+
+\section{Empirical Framework}
+%------------------------------------------------------------------%
+\begin{frame}
+	\frametitle{\textbf{Empirical Framework}}
+	
+		\begin{itemize}
+		\item Item 1
+		\item Item 2
+		\item Item 3
+	\end{itemize}
+\end{frame}
+%------------------------------------------------------------------%
+
+\section{Data \& Empirical Results}
+%------------------------------------------------------------------%
+\begin{frame}
+	\frametitle{\textbf{Data \& Empirical Results}}
+	
+		\begin{itemize}
+		\item Item 1
+		\item Item 2
+		\item Item 3
+	\end{itemize}
+\end{frame}
+%------------------------------------------------------------------%
+
+\section{Conclusions}
+%------------------------------------------------------------------%
+\begin{frame}
+
+	\begin{beamercolorbox}{title}
+	\begin{center}
+		\bfseries \huge Conclusions
+	\end{center}	
+\end{beamercolorbox}
+
+\end{frame}
+%------------------------------------------------------------------%
+
+\begin{frame}
+	\frametitle{\textbf{Conclusions}}
+	
+		\begin{itemize}
+		\item Item 1
+		\item Item 2
+		\item Item 3
+	\end{itemize}
+\end{frame}
+%------------------------------------------------------------------%
+
+\section{Appendix}
+%------------------------------------------------------------------%
+\begin{frame}
+	\section[Appendix]{Appendix}
+	
+	\begin{beamercolorbox}{title}
+		\begin{center}
+			\bfseries \huge Appendix
+		\end{center}	
+	\end{beamercolorbox}
+	
+\end{frame}
+%------------------------------------------------------------------%
+
+\begin{frame}
+	\frametitle{\textbf{Appendix}}
+	
+		\begin{itemize}
+		\item Table 1
+		\item Table 2
+		\item Table 3
+	\end{itemize}
+\end{frame}
+
+
+\end{document}

@@ -1,0 +1,271 @@
+\documentclass[11pt]{beamer}
+\usepackage[orientation=landscape,size=custom,width=16,height=9,scale=0.5,debug]{beamerposter} 
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc} % add '%' before this package if you want to apply mathpazo font inot your slide
+\usepackage{babel}
+
+% Slide fonts
+%\usepackage{lmodern} % add '%' before this package if you want to apply mathpazo font inot your slide
+%\usefonttheme{serif}
+%\usepackage[default, osfigures]{opensans}
+\usepackage[sfdefault]{FiraSans}
+%\usepackage[sc]{mathpazo}
+
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usetheme{Boadilla}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage{siunitx}
+\usepackage{multirow}
+\usepackage{array} 
+\usepackage{booktabs}
+\newcommand{\head}[1]{\textnormal{\textbf{#1}}}
+
+\usepackage{tikz}
+\usetikzlibrary{spy}
+
+% Packages for formating style into this slides
+\setbeamertemplate{section in toc}[circle]
+\setbeamertemplate{itemize items}[default]
+\setbeamertemplate{itemize subitem}[square]
+\setbeamertemplate{itemize subsubitem}[circle]
+\setbeamertemplate{itemize mini template}[ball]
+
+\setbeamertemplate{enumerate items}[circle]
+\setbeamertemplate{enumerate subitem}[square]
+\setbeamertemplate{enumerate subsubitem}[circle]
+\setbeamertemplate{enumerate mini template}[ball]
+
+% Text margin 
+\renewcommand{\baselinestretch}{1.3}
+\setbeamersize{text margin left=0.5cm}
+\setbeamersize{text margin right=0.5cm}
+
+% Change color template
+%\setbeamertemplate{footline}[frame number]
+\setbeamercolor{background canvas}{bg=black!100}
+\setbeamercolor{normal text}{fg=gainsboro}\usebeamercolor*{normal text}
+
+
+\definecolor{alizarin}{rgb}{0.82, 0.1, 0.26}
+\definecolor{bostonuniversityred}{rgb}{0.8, 0.0, 0.0}
+\definecolor{carnelian}{rgb}{0.7, 0.11, 0.11}
+\definecolor{ghostwhite}{rgb}{0.97, 0.97, 1.0}
+\definecolor{gainsboro}{rgb}{0.86, 0.86, 0.86}
+
+%\definecolor{beamer@blendedblue}{rgb}{0.2,0.2,0.7}
+%\colorlet{beamer@blendedblue}{orange!70!red}
+
+\definecolor{beamer@blendedblue}{rgb}{0.7, 0.11, 0.11}
+\colorlet{beamer@blendedblue}{rgb}{0.7, 0.11, 0.11}
+
+
+%\setbeamercolor{palette tertiary}{fg=gainsboro, bg=carnelian}
+
+
+%\setbeamertemplate{footline}[frame number]
+
+% Style for footline with including content on the footline
+\setbeamertemplate{footline}
+{%
+	\begin{beamercolorbox}{section in head/foot}
+		\vskip-1.7pt \insertnavigation {\paperwidth } \vskip-3.1pt   
+
+	\end{beamercolorbox}%
+}
+\setbeamertemplate{navigation symbols}{}
+
+%------------------------------------------------------------------%
+\begin{document}
+
+	\title[Presentation Title]{\bfseries Presentation Title}
+	\subtitle{\bfseries Presntation Subtitle}
+	\author[Full Name]{Presenter and Co-Authors}
+	\titlegraphic{\includegraphics[width=0.2\linewidth]{Figure/Logo}}
+
+	
+	\institute{Instiute}
+	\date[\today]{Program, \today}
+	%\subject{}
+	%\setbeamercovered{transparent}
+	%\setbeamertemplate{navigation symbols}{}
+
+	\begin{frame}[plain]
+		\maketitle
+		
+	\end{frame}
+%------------------------------------------------------------------%
+% Page number set from 1 into page 2
+	\addtobeamertemplate{navigation symbols}{}{     
+		\usebeamerfont{footline}%
+		\insertframenumber/\inserttotalframenumber }
+	\setcounter{framenumber}{0}
+%------------------------------------------------------------------%	
+
+\section{Motivation}
+%------------------------------------------------------------------%	
+	\begin{frame}
+		\frametitle{\bfseries Motivation}
+		
+		\begin{itemize}
+			\item Item 1
+			\item Item 2
+			\item Item 3
+		\end{itemize}
+	\end{frame}
+%------------------------------------------------------------------%
+
+\section[]{This Paper}
+%------------------------------------------------------------------%	
+	\begin{frame}
+		\frametitle{\bfseries This Paper}
+		
+		\begin{itemize}
+			\item Item 1
+			\item Item 2
+			\item Item 3
+		\end{itemize}
+
+	\end{frame}
+%------------------------------------------------------------------%
+
+\section[Literature]{Related Literature}
+%------------------------------------------------------------------%	
+\begin{frame}
+	\frametitle{\bfseries Related Literature}
+	
+	\begin{itemize}
+		\item Item 1
+		
+		\begin{itemize}
+			\item Sub Item 1
+			\item Sub Item 2
+					
+			\begin{itemize}
+				\item Subsub Item 1
+				\item Subsub Item 2
+			\end{itemize}
+			\item Sub Item 3
+		\end{itemize}
+		\item Item 2
+
+	\end{itemize}
+
+\end{frame}
+%------------------------------------------------------------------%
+
+\section{Road Map}
+%------------------------------------------------------------------%	
+\begin{frame}
+
+	\frametitle{\bfseries Road Map}
+	
+	\begin{enumerate}
+		\item Item 1
+		\item Item 2
+		\item Item 3
+	\end{enumerate}
+\end{frame}
+%------------------------------------------------------------------%
+
+\section[Theoretical]{Theoretical Model}
+%------------------------------------------------------------------%	
+\begin{frame}
+	\begin{beamercolorbox}{title}
+		\begin{center}
+			\bfseries \huge Theoretical Model
+		\end{center}
+	\end{beamercolorbox}
+
+\end{frame}
+
+%------------------------------------------------------------------%	
+\begin{frame}
+	\frametitle{\bfseries Theoretical Model}
+	
+	
+\end{frame}
+%------------------------------------------------------------------%
+
+\section[Framework]{Empirical Framework}
+%------------------------------------------------------------------%	
+	\begin{frame}
+	\begin{beamercolorbox}{title}
+		\begin{center}
+			\bfseries \huge Empirical Framework
+		\end{center}	
+	\end{beamercolorbox}
+	
+\end{frame}
+%------------------------------------------------------------------%
+
+\begin{frame}
+
+	\frametitle{\bfseries Empirical Framework}
+\end{frame}
+%------------------------------------------------------------------%
+
+\section[Data \& Results]{Data \& Empirical Results}
+%------------------------------------------------------------------%	
+	\begin{frame}
+	\begin{beamercolorbox}{title}
+		\begin{center}
+			\bfseries \huge Data \& Empirical Results
+		\end{center}	
+	\end{beamercolorbox}
+	
+\end{frame}
+%------------------------------------------------------------------%
+
+\begin{frame}
+
+	\frametitle{\bfseries Data \& Empirical Results}
+\end{frame}
+%------------------------------------------------------------------%
+
+\section[Conclusions]{Conclusions}
+%------------------------------------------------------------------%
+\begin{frame}
+	\begin{beamercolorbox}{title}
+		\begin{center}
+			\bfseries \huge Conclusions
+		\end{center}	
+	\end{beamercolorbox}
+	
+\end{frame}
+%------------------------------------------------------------------%
+
+\begin{frame}
+
+	\frametitle{\bfseries Conclusions}
+\end{frame}
+%------------------------------------------------------------------%
+
+\section[Appendix]{Appendix}
+%------------------------------------------------------------------%	
+\begin{frame}
+	\begin{beamercolorbox}{title}
+		\begin{center}
+			\bfseries \huge Appendix
+		\end{center}	
+	\end{beamercolorbox}
+	
+\end{frame}
+%------------------------------------------------------------------%
+
+\begin{frame}
+	
+	\frametitle{\bfseries Appendix}
+\end{frame}
+%------------------------------------------------------------------%
+
+
+\end{document}
