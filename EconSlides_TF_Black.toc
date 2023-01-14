@@ -1,0 +1,11 @@
+\babel@toc {nil}{}\relax 
+\beamer@sectionintoc {1}{Motivation}{2}{0}{1}
+\beamer@sectionintoc {2}{This Paper}{3}{0}{2}
+\beamer@sectionintoc {3}{Related Literature}{4}{0}{3}
+\beamer@sectionintoc {4}{Road Map}{5}{0}{4}
+\beamer@sectionintoc {5}{Theoretical Model}{6}{0}{5}
+\beamer@sectionintoc {6}{Empirical Framework}{7}{0}{6}
+\beamer@sectionintoc {7}{Data \& Empirical Results}{8}{0}{7}
+\beamer@sectionintoc {8}{Conclusions}{9}{0}{8}
+\beamer@sectionintoc {9}{Appendix}{11}{0}{9}
+\beamer@sectionintoc {10}{Appendix}{11}{0}{10}
