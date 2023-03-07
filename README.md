@@ -1,3 +1,3 @@
 # Econ Slides Template
 
-Hello economists!
+Hello economists and students! 
